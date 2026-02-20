@@ -1,8 +1,30 @@
-# React + Vite
+- A full-stack E-commerce application built with Spring Boot (backend) and React (frontend). It provides a simple yet functional shopping experience with product management, cart functionality, product categories management, and a clean black-and-white theme
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**** Key Features****
 
-Currently, two official plugins are available:
+Home Page: A clean and minimal landing page showcasing available products.
+Product Management (CRUD):
+Add, update, delete, and view products.
+Support for product images to enhance the catalog.
+Category filtering mechanism
+Shopping Cart:
+Add products to cart.
+View cart items with quantity and total price.
+Remove items when needed.
+Theme Support:
+Elegant black-and-white theme for a modern, minimalistic look.
+Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Backend: Spring Boot (REST APIs, product and cart management, image handling).
+**Frontend: React (dynamic UI, responsive design, state management).****
+Database: Any relational database (e.g., MySQL/PostgreSQL) for product and cart storage.
+**Other Tools:**
+Axios/Fetch for API communication.
+CSS/Styled Components for theme styling.
+
+****Future Enhancements**
+
+User authentication & authorization.
+Payment gateway integration.
+Order history & tracking.
+Dark/light theme toggle.
