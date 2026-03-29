@@ -1,4 +1,4 @@
-# Online Shopping Application - Frontend
+# SwiftShop Application_Frontend
 
 A full-stack E-commerce application built with **Spring Boot (backend)** and **React (frontend)**.  
 It provides a simple yet functional shopping experience with product management, cart functionality, product categories management, and a clean black-and-white theme.
