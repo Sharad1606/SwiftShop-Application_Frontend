@@ -3,7 +3,7 @@
 A full-stack E-commerce application built with **Spring Boot (backend)** and **React (frontend)**.  
 It provides a simple yet functional shopping experience with product management, cart functionality, product categories management, and a clean black-and-white theme.
 
-Backend: https://github.com/Sharad1606/Online-Shopping-Application_Backend
+Backend: https://github.com/Sharad1606/SwiftShop-Application_Backend
 ---
 
 ## ✨ Key Features
